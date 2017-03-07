@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SettingsLib/extlibs&apos; to &apos;ext_libs&apos;" description="Rename resource &apos;extlibs&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="extlibs" name="ext_libs" stamp="1488857022409" updateReferences="true"/>
+</session>
