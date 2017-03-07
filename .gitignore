@@ -9,8 +9,13 @@
 *.class
 
 # generated files
-bin/
-gen/
+Keyguard/bin/
+SettingsLib/bin/
+SystemUI/bin/
+
+Keyguard/gen/
+SettingsLib/gen/
+SystemUI/gen/
 .metadata/
 
 # Local configuration file (sdk path, etc)
